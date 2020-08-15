@@ -1,4 +1,25 @@
-h1, h2{
+h1, h2, h3{
   margin:0;
   padding: 20px 8px;
+}
+
+h1{
+  text-align: center;
+  background-color: white;
+  border: 4px dotted black;
+  box-shadow: 5px 5px 3px black;
+}
+
+h2{
+  text-align: center;
+  background-color: white;
+  border: 4px dotted black;
+  box-shadow: 5px 5px 3px black;
+}
+
+h3{
+  text-align: center;
+  background-color: white;
+  border: 4px dotted black;
+  box-shadow: 5px 5px 3px black;
 }
